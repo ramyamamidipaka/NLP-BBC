@@ -1,6 +1,8 @@
 # NLP-Based-work
 
 
+#Jupyter notebook after uploading to github, there were changes in the notebook plotly visualizations
+
 In this Notebook, I will be doing EDA and train Entity recognition model on a tab separated text file.
 
 The basic assumption which I made during this work:
